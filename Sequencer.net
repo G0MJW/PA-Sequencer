@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source D:\Documents\Kicad\Sequencer\Sequencer.sch)
-    (date "17/08/2019 09:44:08")
+    (source D:\Documents\GitHub\PA-Sequencer\Sequencer.sch)
+    (date "02/09/2019 22:21:46")
     (tool "Eeschema (5.1.2)-2")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -37,7 +37,7 @@
       (tstamp 5D575366))
     (comp (ref D2)
       (value BZX84C5V1LT1G)
-      (footprint Package_TO_SOT_SMD:SOT-23)
+      (footprint Diode_SMD:D_SOT-23_ANK)
       (datasheet ~)
       (libsource (lib Device) (part D_Zener) (description "Zener Diode"))
       (sheetpath (names /) (tstamps /))

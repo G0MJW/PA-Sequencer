@@ -19,7 +19,7 @@ Simple Sequencer
 Text Notes 8300 7650 0    79   ~ 0
 August 2019
 Text Notes 7400 7500 0    100  ~ 0
-Sequencer
+Sequencer - Based on W1GHZ
 $Comp
 L Connector:Screw_Terminal_01x05 J1
 U 1 1 5D570CA3
@@ -61,7 +61,7 @@ U 1 1 5D57A5A5
 P 5250 3500
 F 0 "D2" H 5250 3284 50  0000 C CNN
 F 1 "BZX84C5V1LT1G" H 5250 3375 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 5250 3500 50  0001 C CNN
+F 2 "Diode_SMD:D_SOT-23_ANK" H 5250 3500 50  0001 C CNN
 F 3 "~" H 5250 3500 50  0001 C CNN
 	1    5250 3500
 	-1   0    0    1   
